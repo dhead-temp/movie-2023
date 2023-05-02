@@ -24,6 +24,9 @@
     gtag('js', new Date());
     gtag('config', 'G-8FRK0SVQVN');
     gtag('config', 'G-6CL0YSH1Y4');
+    gtag('config', 'G-S691CPS0K6');
+
+    
 
 
     function record(event_name, event_info) {
