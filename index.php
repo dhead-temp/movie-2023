@@ -10,7 +10,6 @@
     <meta name="distribution" content="global" />
     <meta name="author" content="shows123" />
     <link rel="canonical" href="<?php echo "https://" . $subdomainexactly . "." . $fulldomain; ?>" />
-
 </head>
 
 <body>
